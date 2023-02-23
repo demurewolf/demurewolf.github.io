@@ -2,10 +2,10 @@
  {
   "username": "demurewolf",
   "name": "Josiah Wedgwood",
-  "userimg": "https://avatars2.githubusercontent.com/u/34195304?v=4",
-  "sort": "updated",
+  "userimg": "https://avatars.githubusercontent.com/u/34195304?v=4",
+  "sort": "created",
   "order": "desc",
-  "includeFork": true,
+  "includeFork": false,
   "theme": "dark.css",
   "types": [
    "owner"
